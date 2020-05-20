@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+    <string name="login">login</string>
+    <string name="user">user name</string>
+    <string name="password">Password</string>
+    <string name="button">Submit</string>
+</resources>
