@@ -4,4 +4,6 @@
     <string name="user">user name</string>
     <string name="password">Password</string>
     <string name="button">Submit</string>
+    <string name="RegistrationClick">Registartion</string>
+    <string name="backToLogin">Back to login</string>
 </resources>
