@@ -4,7 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     tools:context=".navigationDrawer">
+=======
+    tools:context=".Navigation_drawer">
+>>>>>>> d8d4eabe7b6eeb29663ce6be009391994b3c517d
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"

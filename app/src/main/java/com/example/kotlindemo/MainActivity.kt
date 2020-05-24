@@ -22,7 +22,11 @@ class MainActivity : AppCompatActivity() {
         var password = passwordtext.text
 
         submitbutton.setOnClickListener {
-            Toast.makeText(this,password  ,Toast.LENGTH_LONG).show()
+            //Toast.makeText(this,password  ,Toast.LENGTH_LONG).show()
+            var intent = Intent(this,Navigation_drawer::class.java)
+           // intent.putExtra("loginID", "ActiveUser123")
+            startActivity(intent)
+           // startActivityForResult(intent,REQUEST_CODE)
         }
 
         RegistrationClick.setOnClickListener {
