@@ -26,10 +26,15 @@ class MainActivity : AppCompatActivity() {
         }
 
         RegistrationClick.setOnClickListener {
-            var intent = Intent(this,RegistrationActivity::class.java)
-            intent.putExtra("loginID", "ActiveUser123")
-           // startActivity(intent)
-            startActivityForResult(intent,REQUEST_CODE)
+//            var intent = Intent(this,RegistrationActivity::class.java)
+//            intent.putExtra("loginID", "ActiveUser123")
+//           // startActivity(intent)
+//            startActivityForResult(intent,REQUEST_CODE)
+
+            var intent = Intent(this,navigationDrawer::class.java)
+//            intent.putExtra("loginID", "ActiveUser123")
+             startActivity(intent)
+//            startActivityForResult(intent,REQUEST_CODE)
 
         }
     }
