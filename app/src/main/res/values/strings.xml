@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OrientationSupport</string>
+    <string name="button">Button</string>
+    <string name="welcome">WelCome</string>
+</resources>
