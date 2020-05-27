@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='OrientationSupport'
+rootProject.name='AsyncTaskDemo'

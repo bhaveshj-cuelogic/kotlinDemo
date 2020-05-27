@@ -1,4 +1,4 @@
-package com.example.orientationsupport
+package com.example.asynctaskdemo
 
 import org.junit.Test
 
