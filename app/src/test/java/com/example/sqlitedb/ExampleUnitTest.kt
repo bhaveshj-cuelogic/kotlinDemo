@@ -1,4 +1,4 @@
-package com.example.kotlindemo
+package com.example.sqlitedb
 
 import org.junit.Test
 
