@@ -1,4 +1,4 @@
-package com.example.sqlitedb
+package com.example.googlemapapi
 
 import org.junit.Test
 
