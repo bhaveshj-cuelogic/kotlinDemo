@@ -1,4 +1,4 @@
-package com.example.googlemapapi
+package com.example.marcos.lifecycleawarecomponents
 
 import org.junit.Test
 
