@@ -1,4 +1,4 @@
-package com.example.marcos.lifecycleawarecomponents
+package com.example.jetpackdemo
 
 import org.junit.Test
 
